@@ -1,3 +1,4 @@
+#cycle, cow, lion are the example images we compared
 import numpy
 from PIL import Image
 
